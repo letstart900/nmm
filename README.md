@@ -1,26 +1,26 @@
-bioinfomatics.py
-eoq_model
-arma
-distributions
-Estimating_pi and irregular lamina
-interpolate_and_regression
-mm1_and_mm2
-moving_average
-random_number_generation
-bio_info_algos
-Classical_EOQ
-dp_inventory
-dynamic_eoq_setup_cost
-EOQ_Without_Setup_Cost
-Multi_item_eoq
-Price_break
-captial_asset_pricing_model
-efficient_frontier
-minimum_variance_portfolio
-multi_period
-probabilistic_model
-probabilitized
-s_s
-silver_meal
+bioinfomatics.py,
+eoq_model,
+arma,
+distributions,
+Estimating_pi and irregular lamina,
+interpolate_and_regression,
+mm1_and_mm2,
+moving_average,
+random_number_generation,
+bio_info_algos,
+Classical_EOQ,
+dp_inventory,
+dynamic_eoq_setup_cost,
+EOQ_Without_Setup_Cost,
+Multi_item_eoq,
+Price_break,
+captial_asset_pricing_model,
+efficient_frontier,
+minimum_variance_portfolio,
+multi_period,
+probabilistic_model,
+probabilitized,
+s_s,
+silver_meal,
 
 
